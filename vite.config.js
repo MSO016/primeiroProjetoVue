@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/meu-projeto-vue/'
+  base: '/primeiroProjetoVue/'
 });
